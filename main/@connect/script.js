@@ -26817,34 +26817,34 @@ ${t}`
         },
         Ere = {
             UNSUPPORTED_BROWSER: "This game is not supported on this browser. View '?' or HELP to see a list of compatible browsers.",
-            ROOM_IS_FULL: "The game is full",
-            ROOM_NOT_FOUND: "Room not found",
-            AUDIENCE_IS_FULL: "The audience is full",
+            ROOM_IS_FULL: "Комната заполнена",
+            ROOM_NOT_FOUND: "Комната не найдена",
+            AUDIENCE_IS_FULL: "Места для зрителей заполнены",
             UNABLE_TO_CONNECT: "Unable to connect to the Jackbox Games server. This is commonly caused by adblockers or privacy extensions.",
             UNABLE_TO_PRELOAD: "Unable to preload this game bundle",
-            KICKED: "You cannot join because you have been kicked by a moderator",
-            REQUIRES_TWITCH_LOGIN: "Game requires Twitch login",
-            ROOM_IS_LOCKED: "Game is locked",
-            INCORRECT_PASSWORD: "Incorrect password",
-            GENERIC: "Error joining this game",
+            KICKED: "Вы не можете присоединиться к игре, так как вас исключил модератор",
+            REQUIRES_TWITCH_LOGIN: "Игра требует вход с Twitch",
+            ROOM_IS_LOCKED: "Игра закрыта",
+            INCORRECT_PASSWORD: "Неверный пароль",
+            GENERIC: "Ошибка входа",
             FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
         },
         bre = {
-            NAME: "NAME",
-            NAME_PLACEHOLDER: "ENTER YOUR NAME",
-            PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
-            PASSWORD_REQUIRED_TITLE: "Password required",
-            PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
-            PASSWORD_JOIN_AS_PLAYER: "Join as Player",
-            PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
-            ROOM_CODE: "ROOM CODE",
-            ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+            NAME: "ИМЯ",
+            NAME_PLACEHOLDER: "ВВЕДИТЕ ИМЯ",
+            PASSWORD_PLACEHOLDER: "ВВЕДИТЕ 5-ЗНАЧНЫЙ ПАРОЛЬ",
+            PASSWORD_REQUIRED_TITLE: "Необходим пароль",
+            PASSWORD_REQUIRED_BODY: "Пожалуйста, введите пароль или присоеденитесь к зрителям",
+            PASSWORD_JOIN_AS_PLAYER: "Присоединиться как Игрок ",
+            PASSWORD_JOIN_AS_AUDIENCE: "Присоединиться как Зритель",
+            ROOM_CODE: "КОД КОМНАТЫ",
+            ROOM_CODE_PLACEHOLDER: "ВВЕДИТЕ 4-БУКВЕННЫЙ КОД"
         },
         Tre = "Link to Jackbox Games Homepage",
         Sre = {
             APPEARANCE: "APPEARANCE",
             DARK: "dark",
-            HELP: "HELP",
+            HELP: "ПОМОЩЬ",
             TWITCH: "TWITCH",
             LIGHT: "light",
             LOGOUT: "LOGOUT",
@@ -26869,9 +26869,9 @@ from your past games list.`,
             }
         },
         Are = {
-            EMPTY: "No Past Games Yet",
+            EMPTY: "Нет сыгранных игр",
             MANAGE: "MANAGE",
-            TITLE: "YOUR PAST GAMES"
+            TITLE: "ВАШИ СЫГРАННЫЕ ИГРЫ
         },
         wre = {
             TITLE: "RECENT GAMES",
@@ -26881,16 +26881,16 @@ from your past games list.`,
             }
         },
         Ire = {
-            GAME_FULL: "Game is full",
-            GAME_STARTED: "Game has started",
-            ROOM_NOT_FOUND: "Room not found"
+            GAME_FULL: "Игра заполнена",
+            GAME_STARTED: "Игра началась",
+            ROOM_NOT_FOUND: "Комната не найдена"
         },
         Cre = {
-            GAME_FULL: "GAME IS FULL",
-            GAME_STARTED: "GAME HAS STARTED",
-            JOIN_AUDIENCE: "JOIN AUDIENCE",
-            RECONNECT: "RECONNECT",
-            TWITCH_LOGIN: "LOGIN WITH TWITCH"
+            GAME_FULL: "ИГРА ЗАПОЛНЕНА",
+            GAME_STARTED: "ИГРА НАЧАЛАСЬ",
+            JOIN_AUDIENCE: "ЗАЙТИ КАК ЗРИТЕЛЬ",
+            RECONNECT: "ПЕРЕПОДКЛЮЧИТЬСЯ",
+            TWITCH_LOGIN: "ЗАЙТИ С ТВИЧА"
         },
         Rre = {
             CAMERA: "[b]HEADS UP:[/b] We\u2019re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
