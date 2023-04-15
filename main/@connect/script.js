@@ -15492,24 +15492,24 @@ ${r.message}`,
         }
     }
     const eq = {
-            BACK: "Back",
-            CANCEL: "Cancel",
-            CLOSE: "Close",
-            CONFIRM: "Confirm",
-            CREATE: "Create",
-            DELETE: "Delete",
-            DONE: "Done",
-            EDIT: "Edit",
-            OK: "OK",
-            NO: "No",
-            PLAY: "Play",
-            PUBLISH: "Publish",
-            REMOVE: "Remove",
-            RESET: "Reset",
-            SUBMIT: "Submit",
-            TRY_AGAIN: "Try Again",
-            UNDO: "Undo",
-            YES: "Yes"
+            BACK: "Назад",
+            CANCEL: "Отмена",
+            CLOSE: "Закрыть",
+            CONFIRM: "Подтвердить",
+            CREATE: "Создать",
+            DELETE: "Удалить",
+            DONE: "Готово",
+            EDIT: "Редактировать",
+            OK: "ОК",
+            NO: "Нет",
+            PLAY: "Играть",
+            PUBLISH: "Опубликовать",
+            REMOVE: "Убрать",
+            RESET: "Сбросить",
+            SUBMIT: "Подтвердить",
+            TRY_AGAIN: "Попробовать снова",
+            UNDO: "Вернуть",
+            YES: "Да"
         },
         tq = {
             UGC: {
@@ -15520,42 +15520,42 @@ ${r.message}`,
             }
         },
         rq = {
-            DISCONNECTED: "You have been disconnected.",
+            DISCONNECTED: "Вы были отключены.",
             DRAWING_NOTHING: "You have to draw something!",
             PLAYER_KICKED: "You have been kicked from the game by a moderator.",
-            ROOM_DESTROYED: "Thanks for playing!",
-            ROOM_DISCONNECTED: "Disconnected",
+            ROOM_DESTROYED: "Спасибо за игру!",
+            ROOM_DISCONNECTED: "Отключено",
             TEXT_NAUGHTY: "I\u2019m afraid you can\u2019t write that. Please be respectful of other players.",
             TEXT_NOTHING: "You can\u2019t enter nothing!",
-            TITLE: "Error"
+            TITLE: "Ошибка"
         },
         nq = "LOADING",
         iq = {
-            JOINED_COUNT: "{count} of {maxPlayers} players joined",
-            PLAYERS_NEEDED: "1 player needed to start | {count} players needed to start",
-            WAITING_FOR_VIP: "Waiting for {name} to start the game",
-            WAITING_FOR_GAMEPAD: "Waiting for the game to start",
-            GAME_STARTING: "Game is starting",
-            BUTTON_START: "Press to Start",
-            BUTTON_CANCEL: "Press to Cancel"
+            JOINED_COUNT: "{count} из {maxPlayers} игроков в игре.",
+            PLAYERS_NEEDED: "1 игрок нужен, чтобы начать | {count} игроков нужно, чтобы начать",
+            WAITING_FOR_VIP: "Ждём когда {name} начнёт игру",
+            WAITING_FOR_GAMEPAD: "Ждём начала игры",
+            GAME_STARTING: "Игра начинается",
+            BUTTON_START: "Нажми, чтобы начать",
+            BUTTON_CANCEL: "Нажми, чтобы отменить"
         },
         sq = {
             GALLERY_LINK: "Visit the Gallery",
-            PLAY_AGAIN: "Play again?",
-            BUTTON_SAME_PLAYERS: "Same Players",
-            BUTTON_NEW_PLAYERS: "New Players"
+            PLAY_AGAIN: "Играть снова?",
+            BUTTON_SAME_PLAYERS: "Те же игроки",
+            BUTTON_NEW_PLAYERS: "Новые игроки"
         },
         aq = {
-            AND: "AND",
-            OR: "OR"
+            AND: "И",
+            OR: "ИЛИ"
         },
         oq = {
-            BUTTON_SKIP: "Skip",
-            BUTTON_NEXT: "Next",
+            BUTTON_SKIP: "Пропустить",
+            BUTTON_NEXT: "Дальше",
             BUTTON_DONE: "Let\u2019s Go!"
         },
         cq = {
-            NAME: "AUDIENCE"
+            NAME: "ЗРИТЕЛИ"
         },
         uq = {
             EPISODE_REPORT: "Report Episode",
